@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "name": "Name 1", "age": 16, "gender": "female"},
-    { "id": 2, "name": "Name 2", "age": 41, "gender": "male"},
-    { "id": 3, "name": "Name 3", "age": 77, "gender": "female"}
+  "users": [
+    { "id": 1, "name": "Elizabeth", "age": 16, "gender": "female"},
+    { "id": 2, "name": "Wolf", "age": 41, "gender": "male"},
+    { "id": 3, "name": "Rayne", "age": 77, "gender": "female"}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
