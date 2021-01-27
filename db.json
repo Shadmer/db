@@ -1,14 +1,14 @@
 {
   "users": [
-    { "id": 1, "name": "Elizabeth", "age": 16, "img": "https://cdn.igromania.ru/mnt/articles/d/b/9/2/2/5/29930/preview/61d80042e643590d_848x477.jpg", "gender": "female"},
-    { "id": 2, "name": "Wolf", "age": 41, "img": "https://cdn.igromania.ru/mnt/articles/d/b/9/2/2/5/29930/html/more/57bddc2d33505927_848xH.jpg", "gender": "male"},
-    { "id": 3, "name": "Rayne", "age": 77, "img": "https://cdn.igromania.ru/mnt/articles/d/b/9/2/2/5/29930/html/more/b748b55e4fef035f_848xH.jpg", "gender": "female"}
+    { "id": 1, "name": "Elizabeth", "age": 16, "gender": "female"},
+    { "id": 2, "name": "Wolf", "age": 41,  "gender": "male"},
+    { "id": 3, "name": "Rayne", "age": 77, "gender": "female"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "shadmer"
+    "name": "Shadmer"
   }
 }
